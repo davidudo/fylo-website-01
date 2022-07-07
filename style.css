@@ -150,7 +150,7 @@ main h1 {
 }
 
 main .hero-content {
-  max-width: 27rem;
+  max-width: 30rem;
 }
 
 main .hero-content p {
@@ -206,7 +206,7 @@ main .main-white-container button {
 }
 
 .info-section .info-content {
-  max-width: 27rem;
+  max-width: 30rem;
 }
 
 .info-section .info-content h1 {
@@ -295,14 +295,14 @@ main .main-white-container button {
 }
 
 .light-blue-container .subscribe-message {
-  max-width: 25rem;
+  max-width: 28rem;
 }
 
 .light-blue-container .subscribe-form {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  min-width: 24rem;
+  min-width: 25rem;
 }
 
 .light-blue-container input {
