@@ -278,10 +278,9 @@ main .main-white-container button {
   flex-direction: row;
   margin-top: 6rem;
   margin-bottom: 6rem;
-  justify-content: space-around;
+  justify-content: center;
   flex-wrap: wrap;
   gap: 3rem;
-  max-width: 60rem;
 }
 
 .light-blue-container h2,
@@ -296,14 +295,14 @@ main .main-white-container button {
 }
 
 .light-blue-container .subscribe-message {
-  max-width: 28rem;
+  max-width: 27rem;
 }
 
 .light-blue-container .subscribe-form {
   display: flex;
   flex-direction: column;
   gap: 0.5rem;
-  min-width: 25rem;
+  min-width: 27rem;
 }
 
 .light-blue-container input {
