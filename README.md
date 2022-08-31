@@ -47,7 +47,7 @@ During this project I discovered a website I could use to check the responsivene
 
 ### Continued development
 
-I loom forward to building more complex CSS layouts, like a dashboard.
+I look forward to building more complex CSS layouts, like a dashboard.
 
 ## Author
 
